@@ -4,6 +4,8 @@ description: 'Student work for Exercise 1: Diagramming courtesy of Margaret Hwan
 file: /courses/4-195-special-problems-in-architectural-design-spring-2005/d3ec286f451889380a16f8fef14ffbe3_1hwang.pdf
 file_size: 823860
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

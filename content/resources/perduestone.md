@@ -4,6 +4,8 @@ description: Student's final presentation for House Analysis assignment.
 file: /courses/4-195-special-problems-in-architectural-design-spring-2005/56256db413341a3568b9015cdc0912f1_perduestone.pdf
 file_size: 1657971
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

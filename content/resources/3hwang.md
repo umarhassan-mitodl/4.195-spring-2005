@@ -5,6 +5,8 @@ description: 'Student work for Exercise 3: Material Deployment Investigation cou
 file: /courses/4-195-special-problems-in-architectural-design-spring-2005/4d43ab50ddb07cd740e0ecb697872cea_3hwang.pdf
 file_size: 244049
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

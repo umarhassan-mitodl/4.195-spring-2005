@@ -5,6 +5,8 @@ description: 'Assignment on the logic of material performance and its incorporat
 file: /courses/4-195-special-problems-in-architectural-design-spring-2005/0775b2239495562b12272deeb20b5881_ex3.pdf
 file_size: 19850
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
