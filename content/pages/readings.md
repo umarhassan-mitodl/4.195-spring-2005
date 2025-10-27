@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides a bibliographic citations for course readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ Tufte, Edward. _The Visual Display of Quantitative Information_. Cheshire, CT: G
 
 Lockwood, Arthur. _Diagrams: A Visual Survey of Graphs, Maps, Charts and Diagrams for the Graphic Designer_. New York, NY: Watson-Guptill Publications, 1969. ISBN: 0289370302.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/architectures-time)  Kwinter, Sanford. [_Architectures of Time: Toward a Theory of the Event in Modernist Culture_](https://mitpress.mit.edu/books/architectures-time). Cambridge, MA: MIT Press. ISBN: 0262611813.
+{{% resource_link "ad83c1aa-2bea-4466-be11-f7fb4795d7c7" "![Buy at MIT Press](/images/mp_logo.gif)" %}}  Kwinter, Sanford. {{% resource_link "ad83c1aa-2bea-4466-be11-f7fb4795d7c7" "_Architectures of Time: Toward a Theory of the Event in Modernist Culture_" %}}. Cambridge, MA: MIT Press. ISBN: 0262611813.
 
 Dyson, Anna. "Recombinant Assemblies." _Architectural Design_ 72, no. 5 (2002): 62.
 
